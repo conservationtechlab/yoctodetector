@@ -26,13 +26,13 @@ Tools for training custom animal object detectors.
 
 *model will be saved at "{HomeDir}/runs/detect/train#/weights/best.pt"
 
-
+/n
 ### Instructions to Use the Model You Trained to Predict New Images from Directory
  Please follow the steps in the corresponding jupyter notebook: testOWL_wYOLO.ipynb
  
  *predictions will be saved at {HomeDir}/runs/detect/predict#
  
- 
+ /n
 ### Instructions to Use the Basic YOLOv8 Model to Predict New Images from Directory
  Please follow the steps in the corresponding jupyter notebook: owlClassification_YOLOv8
  
